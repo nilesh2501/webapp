@@ -16,9 +16,7 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
-    </dependencies>
-    <dependencies>
-    <dependency>
+        <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter-api</artifactId>
         <version>5.4.2</version>
@@ -30,7 +28,7 @@
         <version>5.4.2</version>
         <scope>test</scope>
     </dependency>
-</dependencies>
+    </dependencies>
     <scm>
         <connection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</connection>
         <url>https://github.com/javaee-samples/javaee7-simple-sample.git</url>
